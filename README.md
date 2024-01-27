@@ -1,1 +1,1 @@
-# bookbot
+BookBot is a project for the Boot.dev course.
